@@ -9,5 +9,10 @@
 <body>
     <h1>Hallo Cantik!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique inventore voluptates velit, nobis praesentium accusantium commodi voluptate labore eum quaerat saepe nihil minus exercitationem? Tempore eum facere quasi voluptatum ut.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
